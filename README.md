@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Adam
-- 👀 I’m interested in programming.
+- 👀 I’m interested in .NET and Azure.
 - 🌱 I’m currently learning design patterns in C# and Azure services.
 - 💞️ I’m looking to collaborate on..
-- 📫 Reach me on Slack @Lindis
+- 📫 Reach me on Slack @lindis
 
 <!---
 opadalin/opadalin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
