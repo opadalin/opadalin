@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Adam
 - 👀 I’m interested in .NET and Azure.
 - 🌱 I’m currently learning design patterns in C# and Azure services.
-- 💞️ I’m looking to collaborate on..
 - 📫 Reach me on Slack @lindis
 
 <!---
